@@ -1,1 +1,0 @@
-# simclairsgs.github.io
