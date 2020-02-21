@@ -1,1 +1,1 @@
-alert('WELCOME!!!\n      FROM JAVASCRIPT.');
+alert('WELCOME!!!\n      FROM JAVASCRIPT..');
