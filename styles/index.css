@@ -3,7 +3,7 @@ body{
 }
 .simi{
   background-color: blue;
-  height: 200px;
+  height: 250px;
   width: 100%;
 }
 #hd{
@@ -12,5 +12,7 @@ body{
   font-size: 72px;
 }
 #logo{
-  border-radius: 50%
+  border-radius: 50%;
+  height:150px;
+  width:20%
 }
