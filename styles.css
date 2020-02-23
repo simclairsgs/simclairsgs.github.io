@@ -1,0 +1,60 @@
+body{
+  background-color: black;
+}
+.ec_log{
+  background-color: blue;
+  position: absolute;
+  top:0px;
+  right:0px;
+  height:100px;
+  width:100%;
+}
+.about{
+  background-color: black;
+  position: absolute;
+  bottom: 0px;
+  left:0px;
+  height:auto;
+  width:100%;
+  text-align: center;
+}
+#cntct{
+  color:white;
+  font-weight: bold;
+}
+#stud{
+  color: red;
+
+}
+#nav{
+  position: relative;
+  background-color: lightgreen;
+  float: left;
+  height: 500px;
+  width:25%;
+  top: 93px;
+  right: 8px;
+}
+#cont{
+  position: absolute;
+  background-color: lightblue;
+  float: right;
+  height: 500px;
+  top: 100px;
+  right: 0px;
+
+  width:80%;
+}
+#ttl{
+  text-align:center;
+  color: white;
+  font-style: italic;
+}
+.p_txt{
+  text-indent:60px;
+  font-size: 30px;
+}
+#abt_pts{
+list-style-type: disc;
+list-style-position: outside;
+}
