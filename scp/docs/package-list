@@ -1,0 +1,9 @@
+com.sgs.sos
+com.sgs.sos.client
+com.sgs.sos.common
+com.sgs.sos.common.fpe
+com.sgs.sos.io
+com.sgs.sos.scp
+com.sgs.sos.server
+com.sgs.sos.session
+com.sgs.sos.test
